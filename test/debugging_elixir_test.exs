@@ -15,6 +15,6 @@ defmodule DebuggingElixirTest do
   end
 
   test "breakpoint_example" do
-    DebuggingElixir.breakpoint_example() == {1, 2, 6}
+    assert DebuggingElixir.breakpoint_example(1, 2, 3) == {"1", "2", "6"}
   end
 end
