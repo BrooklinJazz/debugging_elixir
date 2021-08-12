@@ -1,21 +1,6 @@
 # DebuggingElixir
 
-**TODO: Add description**
+Debugging Elixir is an example repository for my article [Debugging Phoenix and Elixir Applications in Visual Studio Code](https://medium.com/geekculture/debugging-phoenix-and-elixir-applications-in-visual-studio-code-5f1b63a6713b)
 
-## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `debugging_elixir` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:debugging_elixir, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/debugging_elixir](https://hexdocs.pm/debugging_elixir).
-
+To test the project, clone the repository onto your computer and run the mix tasks using visual studio code.
